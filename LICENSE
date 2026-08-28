@@ -1,39 +1,16 @@
-GNU GENERAL PUBLIC LICENSE
-Version 2, June 1991
-
+Coding-Tutorials-and-Examples-FT-Ada
 Copyright (C) 2026 cybercoldiceberg
 
-This program is free software; you can redistribute it and/or
-modify it under the terms of the GNU General Public License
-as published by the Free Software Foundation; either version 2
-of the License, or (at your option) any later version.
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to the Free Software
-Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
-
-IMPORTANT PROTECTIONS:
-====================
-
-1. PROPRIETARY AND COMMERCIALIZATION BAN:
-   You may NOT make this code closed-source or proprietary.
-   You may NOT commercialize this code for money.
-   You may NOT claim this code as yours and sell it under any circumstance.
-
-2. DERIVATIVE WORKS:
-   Any derivative works must also be licensed under GPLv2.
-   You must provide source code for any modifications.
-
-3. DISTRIBUTION:
-   If you distribute this code, you must include this license and copyright notice.
-   You must make the source code available to recipients.
-
-4. NO WARRANTY:
-   This code is provided "as is" without warranty of any kind.
-
-For the full GPLv2 license text, see: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
